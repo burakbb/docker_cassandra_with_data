@@ -1,6 +1,6 @@
 Build
 
-docker build -t cassandra_example -f Dockerfile .,
+docker build -t cassandra_example -f Dockerfile .
 
 
 Run
